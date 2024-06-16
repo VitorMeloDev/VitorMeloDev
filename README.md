@@ -75,8 +75,8 @@ Minha expertise abrange todo o ciclo de desenvolvimento, desde a concepção at�
 
 ## 🌐 Presença Online
 
-- 🎮 ![Steam](https://store.steampowered.com/search/?developer=VM%20Games) (https://img.shields.io/badge/-Steam-000000?style=flat-square&logo=steam)
-- 🎮 ![Itch.io](https://vitor-melo-games.itch.io/)  (https://img.shields.io/badge/-Itch.io-FA5C5C?style=flat-square&logo=itch-dot-io)
+- 🎮 [Steam](https://store.steampowered.com/search/?developer=VM%20Games)
+- 🎮 [Itch.io](https://vitor-melo-games.itch.io/)
 
 ---
 
