@@ -80,7 +80,7 @@ Minha expertise abrange todo o ciclo de desenvolvimento, desde a concepção at�
 
 ---
 
-## 🌐 Redes Sociais
+## 🔗 Redes Sociais
 
 <div align="center">
   <a href="https://www.linkedin.com/in/vítor-melo-dev" target="_blank">
