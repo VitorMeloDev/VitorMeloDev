@@ -45,6 +45,13 @@ Minha expertise abrange todo o ciclo de desenvolvimento, desde a concepção at�
 
 ---
 
+## 🕹️ Presença em lojas
+
+- 🎮 [Steam](https://store.steampowered.com/search/?developer=VM%20Games)
+- 🎮 [Itch.io](https://vitor-melo-games.itch.io/)
+
+---
+
 ## 🚀 Projetos em Destaque
 
 ### 🎮 Jogos
@@ -70,13 +77,6 @@ Minha expertise abrange todo o ciclo de desenvolvimento, desde a concepção at�
 #### [Etch a Sketch](https://vitormelodev.github.io/TOP_Project_Etch-a-Sketch/)
 - **Descrição**: Um jogo de desenhar na tela com quadros em grid feito com HTML, CSS e JS
 - **Link**: [GitHub](https://github.com/VitorMeloDev/TOP_Project_Etch-a-Sketch)
-
----
-
-## ✨ Presença em lojas
-
-- 🎮 [Steam](https://store.steampowered.com/search/?developer=VM%20Games)
-- 🎮 [Itch.io](https://vitor-melo-games.itch.io/)
 
 ---
 
