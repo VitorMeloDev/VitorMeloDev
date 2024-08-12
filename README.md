@@ -2,14 +2,6 @@
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VitorMeloDev&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-</div>
-
----
-
 ## 🌟 Sobre mim
 
 Sou um desenvolvedor de software experiente com uma sólida formação em desenvolvimento de jogos. Ao longo da minha carreira, completei mais de 20 jogos e publiquei 2 títulos na plataforma Steam.
