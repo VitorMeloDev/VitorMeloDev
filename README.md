@@ -1,4 +1,4 @@
-👋 Hi! I am Vitor
+👋 Hi! I am Vitor!
 
 Game & Backend Developer
 
